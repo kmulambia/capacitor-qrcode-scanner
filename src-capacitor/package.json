@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "author": "Kaponda Mulambia <mulambiakaponda@outlook.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.4.7",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0",
+    "cordova-plugin-qr-barcode-scanner": "^8.0.3"
+  }
+}
